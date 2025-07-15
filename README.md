@@ -25,9 +25,11 @@ This project is a responsive, multi-level expandable table built with **HTML**, 
 - `script.js` – Logic to render rows and handle expansion
 
 ## 🌐 Live Demo
+- "Click here to open web page"
+https://dashing-cocada-c92fd3.netlify.app/
 
 > Click here to see github Repository pages
-
+https://github.com/SravanSakha/Expandable-tables
 
 ---
 
@@ -53,7 +55,7 @@ This project fulfills the following:
 **Sakha Sravan Sriram**  
 Email: sravansakha@gmail.com 
 github:
-
+https://github.com/SravanSakha
 ---
 
 ## 🔖 License
