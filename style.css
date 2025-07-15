@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.expand-btn {
+  cursor: pointer;
+  user-select: none;
+  margin-right: 6px;
+}
+
+.level-1 td {
+  padding-left: 20px;
+}
+
+.level-2 td {
+  padding-left: 40px;
+}
+
+.level-3 td {
+  padding-left: 60px;
+}
+
+.hidden {
+  display: none;
+}
